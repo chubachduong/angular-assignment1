@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 300,
+      "img": "anh"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 400,
+      "img": "anh"
+    },
+    {
+      "name": "Chu Bach Dương update 2",
+      "price": 400,
+      "img": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142435/anhhtus/%C4%90%E1%BB%81%20thi/macbook_256_ousklt.png",
+      "id": 4
+    },
+    {
+      "name": "duongcbph21404",
+      "price": 333,
+      "img": "dfsvbdb ",
+      "id": 5
+    }
+  ]
+}
